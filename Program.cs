@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace ExeminationsUppgift
 {
     class Program
-    {
+    { //min commit
         static void Main(string[] args)
         {
             Console.WriteLine("skriv in ditt tolvsiffriga personnummer:");
